@@ -1,0 +1,46 @@
+
+h1{
+    color: blue;
+    font-size: 100px;
+    background-color: rgb(205, 223, 255);
+    text-align: center;
+    
+}
+
+img{
+    width: 220px; 
+    height: 220px;
+    
+}
+.card{ 
+    
+    background-color: rgb(204, 62, 233);
+    text-align: center;
+    width: 500px;
+    border-image-outset: black 30px;
+
+
+
+}
+body{
+    border-style: solid;
+    border-color: black;
+    background-color: cadetblue;
+}
+#dish-name {
+    color: white;
+}
+#dish-name2 {
+    color: white;
+}
+#dish-name3 {
+    color: white;
+}
+hr{
+    color: black;
+}
+
+
+
+
+
